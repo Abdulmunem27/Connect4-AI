@@ -45,3 +45,14 @@ button {
 button:hover {
     background-color: #D8554B;
 }
+.gege-win {
+    color: #ff3523;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.robot-win {
+    color: #1389c4;
+    font-weight: bold;
+    font-size: 24px;
+}
